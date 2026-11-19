@@ -1,7 +1,13 @@
 # The World — 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/hendraaragaki/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/hendraaragaki/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 A newspaper front page summing up the world's news of Wednesday
 18 November 2026, drawn by a pure-stdlib Python program.
+
+Built for the [make.fun news-image-20261118 bounty](https://make.fun/bounty/news-image-20261118) — sum up 18 November's world news in one image. Try make.fun yourself: [make.fun/r/v8he2xvz](https://make.fun/r/v8he2xvz)
 
 Run it:
 
